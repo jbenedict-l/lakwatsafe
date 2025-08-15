@@ -3,7 +3,7 @@ import * as Facebook from "expo-facebook";
 import { createUserWithEmailAndPassword, sendPasswordResetEmail, signInWithEmailAndPassword } from "firebase/auth";
 import React, { useState } from "react";
 import { Alert, Button, Text, TextInput, TouchableOpacity, View } from "react-native";
-import { auth } from "./firebaseConfig";
+import { auth } from "../../firebaseConfig";
 
 export default function AuthScreen() {
   const [email, setEmail] = useState("");

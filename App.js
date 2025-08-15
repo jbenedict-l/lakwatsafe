@@ -7,7 +7,7 @@ import { initializeApp } from 'firebase/app';
 import { getAuth, onAuthStateChanged } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
-import Icon from 'react-native-vector-icons/Ionicons';
+import { Ionicons } from '@expo/vector-icons';
 
 // Screens
 import LandingScreen from './screens/LandingScreen';
@@ -18,7 +18,6 @@ import ReportScreen from './screens/ReportScreen';
 
 // Firebase configuration
 const firebaseConfig = {
-  // Replace with your Firebase config
   apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
   authDomain: process.env.EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN,
   projectId: process.env.EXPO_PUBLIC_FIREBASE_PROJECT_ID,
@@ -49,7 +48,7 @@ function TabNavigator() {
           } else if (route.name === 'Report') {
             iconName = focused ? 'warning' : 'warning-outline';
           }
-          return <Icon name={iconName} size={size} color={color} />;
+          return <Ionicons name={iconName} size={size} color={color} />;
         },
         tabBarActiveTintColor: '#4A90E2',
         tabBarInactiveTintColor: 'gray',
