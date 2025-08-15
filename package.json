@@ -22,11 +22,7 @@
     "expo-location": "~18.1.6",
     "expo-status-bar": "~2.2.0",
     "expo-web-browser": "~14.2.0",
-<<<<<<< HEAD
-    "firebase": "^11.1.0",
-=======
     "lucide-react-native": "^0.539.0",
->>>>>>> 65680311c60f6d83bae7243c3f2f1902e086d082
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-native": "0.79.5",
