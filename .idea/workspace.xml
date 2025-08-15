@@ -3,4 +3,66 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c6c13f-88ef-4dfd-96c8-eef269ce1e8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.expo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/LakwatSafe/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/assets/(your asset files)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/LakwatSafe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/src/navigation/AppNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/src/screens/HomeScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/src/screens/SettingsScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/src/screens/SplashScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/src/types/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LakwatSafe/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="31KeKF2hMFrpQkxjb6Xz3YeNcN6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "configurable.group.build"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c6c13f-88ef-4dfd-96c8-eef269ce1e8d" name="Changes" comment="" />
+      <created>1755277126282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755277126282</updated>
+    </task>
+    <servers />
+  </component>
 </project>
